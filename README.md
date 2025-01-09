@@ -38,6 +38,8 @@ Frontend
 
 -IntelliJ IDEA: IDE used for developing the frontend.
 
+Project Presentation : 
 
+https://www.youtube.com/watch?v=nt9VIgjN-3Q
 
 
